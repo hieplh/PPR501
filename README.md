@@ -3,6 +3,6 @@
 ### MSSV: 22MSE23056
 ----------
 - **Exercise 1**: [Exercise 1](https://colab.research.google.com/drive/1htOHPGxU7XVv8tVVfr1YwUyBiF6nqAPf?usp=sharing)
-- **Exercise 2**: [Exercise 2](https://)
+- **Exercise 2**: [Exercise 2](https://colab.research.google.com/drive/1cJDNfxtNZ1j78WICCgv_qjv8E6mlP-Va?usp=sharing)
 - **Exercise 3**: [Exercise 3](https://)
 - **Assignment**: [Assignment](https://)
